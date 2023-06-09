@@ -7,7 +7,7 @@
 1. **_Clone the repository_**
 
 ```sh
-git clone [https://github.com/nour-aldin/modern_bank.git](https://github.com/nour-aldin/frontend-assignment)
+git clone https://github.com/nour-aldin/frontend-assignment
 ```
 
 2. **_Navigate to repository directory_**
